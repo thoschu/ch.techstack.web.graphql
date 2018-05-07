@@ -4,7 +4,7 @@
   "description": "the query language for my API - example",
   "main": "index.js",
   "scripts": {
-    "start": "node server/server.js",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,9 +18,6 @@
   },
   "homepage": "https://github.com/thoschu/de.schulte360.web.graphql#readme",
   "dependencies": {
-    "express": "^4.16.1",
-    "express-graphql": "^0.6.11",
-    "graphql": "^0.11.6",
-    "graphql-request": "^1.3.6"
+    "graphql": "^0.13.2"
   }
 }

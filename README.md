@@ -1,1 +1,1 @@
-# de.schulte360.web.graphql
+# ch.techstack.web.graphql
